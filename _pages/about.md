@@ -289,3 +289,5 @@ Signals and Systems, Fundamentals of Automatic Control, Dynamical Systems, Optim
 * Led a rural science-education camp whose reports received more than **6,500 views**.
 
 * Participated in international winter programs at Hanyang University and Peter the Great St. Petersburg Polytechnic University.
+
+  
