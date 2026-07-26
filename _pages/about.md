@@ -48,33 +48,15 @@ I was selected for funded semester exchange programs at the **Hong Kong Universi
 
 
 
-### HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs
+### HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs, under review, 2026
 
-
-
-**Second Author**, under review, 2026
+Yisen Gao, **Yixi Cai**, Tianshi Zheng, Jiaxin Bai, Yangqiu Song
 
 [[Paper](https://arxiv.org/abs/2605.31370)]
 
+[[Code]([https://arxiv.org/abs/2605.31370](https://github.com/HKUST-KnowComp/HypoAgent))]
 
-
-HypoAgent is a multi-agent framework for interactive abductive hypothesis generation over knowledge graphs. It grounds evolving user intents, diagnoses failed hypotheses, and supports controllable hypothesis generation during multi-turn interaction.
-
-
-
-The framework achieved state-of-the-art performance on BioKG, PharmKG8k, and DBpedia50 across three experimental settings. On PharmKG8k, for example, the Jaccard score improved from **63.3 to 82.4**.
-
-
-
-My main contributions included:
-
-
-
-* Building the LLM-based multi-agent reasoning system;
-
-* Training the lightweight Transformer-based hypothesis generator;
-
-* Constructing single-turn and multi-turn abductive dialogue datasets.
+Abductive reasoning over knowledge graphs aims to generate logical hypotheses that explain observed entities or facts. Existing controllable hypothesis generation methods allow users to guide this process with explicit conditions, but they remain limited in interactive settings: they struggle to ground evolving natural-language intents across multi-turn dialogues and provide little fine-grained diagnosis when generated hypotheses fail. To address these limitations, we propose HypoAgent, an Agentic framework for interactive abductive Hypothesis Generation over knowledge graphs. HypoAgent integrates three agents: an Intent Recognition Agent that grounds user utterances and dialogue history into executable KG conditions, a Hypothesis Generation Agent that performs controllable hypothesis generation according to the extracted user intention, and a Root Cause Analysis Agent that diagnoses unreliable hypothesis fragments and leverages KG neighborhood probing to identify supported refinements. Experiments on commonsense and biomedical domain-specific knowledge graphs demonstrate that HypoAgent achieves state-of-the-art semantic similarity under single-turn, multi-turn, and unconditional settings.
 
 
 
@@ -82,51 +64,17 @@ My main contributions included:
 
 
 
-### Research Intern, Knowledge Computing Group, HKUST
-
-
-
-*Feb. 2026 – May 2026*
+### Research Assistant, Knowledge Computing Group, HKUST, *Feb. 2026 – May 2026*
 
 Advisor: **Prof. Yangqiu Song**
 
-Department of Computer Science and Engineering, The Hong Kong University of Science and Technology
 
 
-
-* Developed an LLM-based multi-agent system for interactive abductive reasoning over knowledge graphs.
-
-* Designed mechanisms to model evolving user intents and diagnose unsuccessful hypotheses during interaction.
-
-* Trained a lightweight Transformer model for hypothesis generation.
-
-* Constructed single-turn and multi-turn abductive reasoning datasets.
-
-* Evaluated the framework on BioKG, PharmKG8k, and DBpedia50, achieving state-of-the-art results across multiple settings.
-
-
-
-### Research Intern, Information Retrieval Lab, Tsinghua University
-
-
-
-*Sep. 2025 – Dec. 2025*
+### Research Assistant, Information Retrieval Lab (THUIR), Tsinghua University, *Sep. 2025 – Dec. 2025*
 
 Advisor: **Prof. Yiqun Liu**
 
-Department of Computer Science and Technology, Tsinghua University
 
-
-
-* Proposed an **Entropy-Aware Token Masking** strategy to mitigate the distribution mismatch between supervised fine-tuning and reinforcement learning.
-
-* Increased the output-distribution entropy of Qwen-family models by **11.70%**, while keeping training accuracy nearly unchanged with only a **1.15% decrease**.
-
-* Conducted a comprehensive literature review on language-model post-training and alignment.
-
-* Derived the theoretical relationship between a single-step gradient update and the corresponding change in output-distribution entropy.
-
-* Built the complete model training and evaluation pipeline and conducted experimental analyses.
 
 
 
@@ -229,50 +177,6 @@ School of Artificial Intelligence
   * The University of Toronto, Sep. 2026 – Dec. 2026.
 
 
-
-### Selected Coursework
-
-
-
-**Mathematics**
-
-
-
-Calculus, Advanced Algebra, Probability Theory, Mathematical Statistics, Differential Equations, Set Theory and Graph Theory, and Abstract Algebra.
-
-
-
-**Computer Science and Artificial Intelligence**
-
-
-
-Data Structures and Programming, Algorithm Design and Analysis, Fundamentals of Computer Systems, Machine Learning, and Foundations of Cognition.
-
-
-
-**Systems and Control**
-
-
-
-Signals and Systems, Fundamentals of Automatic Control, Dynamical Systems, Optimization Methods, Electronic Design, and Digital Electronics.
-
-
-
-# 🛠 Skills
-
-
-
-* **Programming Languages:** Python, C, MIPS Assembly, LaTeX
-
-* **Deep Learning:** PyTorch, Hugging Face Transformers
-
-* **Model Training:** ms-swift, LLaMA-Factory, verl
-
-* **Development Tools:** Git, Linux, Jupyter, PyCharm, VS Code, Cursor, Claude Code, MobaXterm
-
-* **Hardware and Prototyping:** Arduino
-
-* **Languages:** Native Cantonese and Mandarin; English, IELTS 7.0
 
 
 
