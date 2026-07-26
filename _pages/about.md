@@ -20,19 +20,19 @@ author_profile: true
 
 # 🔥 News
 
-* *2026.07*: Selected for the **McCall MacBain Scholarships** (**Beihang’s sole endorsed nominee**).
+* *2026.07*: Selected for the McCall MacBain Scholarships (**Beihang’s sole endorsed nominee**).
 
 * *2026.06*: Selected for an AI-focused venture capital fellowship at InnoAngel Fund (**30 fellows nationwide; Top-10 VC in China**).
 
 * *2026.05*: Our paper, **HypoAgent**, was released on arXiv and is currently under review.
 
-* *2026.04*: Awarded the **Soong Ching Ling Scholarship** (**10 recipients university-wide**).
+* *2026.04*: Awarded the Soong Ching Ling Scholarship (**10 recipients university-wide**).
 
 * *2026.03*: Selected for a funded exchange semester at the **University of Toronto** (**4 Beihang students selected**).
 
-* *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at **HKUST** as a research assistant.
+* *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at **The Hong Kong University of Science and Technology** as a research assistant.
 
-* *2025.10*: Selected for a funded exchange semester at **HKUST** (**2 Beihang students selected**).
+* *2025.10*: Selected for a funded exchange semester at The Hong Kong University of Science and Technology (**2 Beihang students selected**).
 
 * *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
 
