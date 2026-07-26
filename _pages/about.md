@@ -17,7 +17,7 @@ redirect_from:
 
 ### B.Eng. in Artificial Intelligence
 
-**School of Artificial Intelligence, Beihang University**
+**School of Artificial Intelligence, Beihang University**<br>
 *2023 – 2027, Beijing, China*
 
 * Academic score: **88.19/100**
@@ -63,16 +63,16 @@ redirect_from:
 
 ### Research Assistant — Agentic Framework and Knowledge Graph
 
-<a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">**Knowledge Computing Group (KnowComp)**</a>
-The Hong Kong University of Science and Technology (HKUST)
+<a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">**Knowledge Computing Group (KnowComp)**</a><br>
+The Hong Kong University of Science and Technology (HKUST)<br>
 *Feb. 2026 – May 2026*
 
 * Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
 ### Research Assistant — LLM Post-Training
 
-<a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">**Information Retrieval Lab (THUIR)**</a>
-Tsinghua University
+<a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">**Information Retrieval Lab (THUIR)**</a><br>
+Tsinghua University<br>
 *Sep. 2025 – Dec. 2025*
 
 * Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
