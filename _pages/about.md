@@ -52,9 +52,8 @@ I was selected for funded semester exchange programs at the **Hong Kong Universi
 
 Yisen Gao, **Yixi Cai**, Tianshi Zheng, Jiaxin Bai, Yangqiu Song
 
-[[Paper](https://arxiv.org/abs/2605.31370)]
-
-[[Code]([https://arxiv.org/abs/2605.31370](https://github.com/HKUST-KnowComp/HypoAgent))]
+[[Paper](https://arxiv.org/abs/2605.31370)] 
+[[Code](https://github.com/HKUST-KnowComp/HypoAgent)]
 
 Abductive reasoning over knowledge graphs aims to generate logical hypotheses that explain observed entities or facts. Existing controllable hypothesis generation methods allow users to guide this process with explicit conditions, but they remain limited in interactive settings: they struggle to ground evolving natural-language intents across multi-turn dialogues and provide little fine-grained diagnosis when generated hypotheses fail. To address these limitations, we propose HypoAgent, an Agentic framework for interactive abductive Hypothesis Generation over knowledge graphs. HypoAgent integrates three agents: an Intent Recognition Agent that grounds user utterances and dialogue history into executable KG conditions, a Hypothesis Generation Agent that performs controllable hypothesis generation according to the extracted user intention, and a Root Cause Analysis Agent that diagnoses unreliable hypothesis fragments and leverages KG neighborhood probing to identify supported refinements. Experiments on commonsense and biomedical domain-specific knowledge graphs demonstrate that HypoAgent achieves state-of-the-art semantic similarity under single-turn, multi-turn, and unconditional settings.
 
@@ -62,49 +61,27 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 # 🔬 Research Experience
 
+### Research Assistant, <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">Knowledge Computing Group (KnowComp)</a>, HKUST, *Feb. 2026 – May 2026*
 
+Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
-### Research Assistant, Knowledge Computing Group, HKUST, *Feb. 2026 – May 2026*
+### Research Assistant, <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">Information Retrieval Lab (THUIR)</a>, Tsinghua University, *Sep. 2025 – Dec. 2025*
 
-Advisor: **Prof. Yangqiu Song**
-
-
-
-### Research Assistant, Information Retrieval Lab (THUIR), Tsinghua University, *Sep. 2025 – Dec. 2025*
-
-Advisor: **Prof. Yiqun Liu**
+Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
 
 
 
 
 
-# 💻 Teaching & Selected Projects
+
+# 💻 Teaching
 
 
 
 ### Teaching Assistant, Data Structures and Programming
 
-
-
 *Sep. 2023 – Jun. 2025*, Beihang University
 
-
-
-* Supported course delivery and provided programming guidance to more than **120 students**.
-
-* Authored a college-wide final-exam review and Q&A guide that received more than **1,000 views**.
-
-
-
-### Selected Course Projects
-
-
-
-* **Cache Simulator:** Designed and implemented a simulator for analyzing cache behavior and memory-access performance.
-
-* **Single-Cycle CPU:** Designed a single-cycle processor using fundamental computer architecture principles.
-
-* **Neural Network from Scratch:** Implemented neural-network layers and model-training procedures without relying on high-level deep-learning abstractions.
 
 
 
@@ -158,11 +135,7 @@ Advisor: **Prof. Yiqun Liu**
 
 
 
-**B.Eng. Candidate in Artificial Intelligence**
-
-School of Artificial Intelligence
-
-
+**B.Eng., Artificial Intelligence,** School of Artificial Intelligence
 
 * Academic score: **88.19/100**
 
