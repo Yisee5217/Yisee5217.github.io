@@ -7,14 +7,19 @@ author_profile: true
 
 <span class='anchor' id='education'></span>
 
-
 # 📖 Education
 
-### B.Eng. in Artificial Intelligence, Beihang University, *2023 – 2027, Beijing, China*<br>
+### B.Eng. in Artificial Intelligence, Beihang University
 
+*2023 – 2027, Beijing, China*
 
-* Academic score: **88.19/100**;  IELTS: **7.0**
-* Funded exchange semesters: HKUST (Spring 2026; 2 selected university-wide) and the University of Toronto (Fall 2026; 4 selected university-wide).
+* Academic score: **88.19/100**
+* IELTS: **7.0**
+* Funded exchange semesters:
+
+  * **HKUST**, Spring 2026 (**2 selected university-wide**)
+  * **University of Toronto**, Fall 2026 (**4 selected university-wide**)
+
 
 <span class='anchor' id='news'></span>
 
