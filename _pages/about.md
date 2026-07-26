@@ -17,7 +17,7 @@ author_profile: true
 * IELTS: **7.0**
 * Funded exchange semesters:
 
-  * **HKUST**, Spring 2026 (**2 selected university-wide**)
+  * **Hong Kong University of Science and Technology**, Spring 2026 (**2 selected university-wide**)
   * **University of Toronto**, Fall 2026 (**4 selected university-wide**)
 
 
