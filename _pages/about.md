@@ -10,7 +10,7 @@ author_profile: true
 
 # 📖 Education
 
-## B.Eng. in Artificial Intelligence, Beihang University, *2023 – 2027, Beijing, China*<br>
+### B.Eng. in Artificial Intelligence, Beihang University, *2023 – 2027, Beijing, China*<br>
 
 
 * Academic score: **88.19/100**
@@ -39,7 +39,7 @@ author_profile: true
 <span class='anchor' id='papers'></span>
 
 # 📝 Papers
-## HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs
+### HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs
 
  Yisen Gao, **Yixi Cai**, Tianshi Zheng, Jiaxin Bai, Yangqiu Song
  
@@ -58,14 +58,14 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 # 🔬 Research Experience
 
-## Research Assistant — Agentic Framework and Knowledge Graph, *Feb. 2026 – May 2026*
+### Research Assistant — Agentic Framework and Knowledge Graph, *Feb. 2026 – May 2026*
 
 * <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">**Knowledge Computing Group (KnowComp)**</a>,The Hong Kong University of Science and Technology (HKUST)<br>
 
 
 * Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
-## Research Assistant — LLM Post-Training, *Sep. 2025 – Dec. 2025*
+### Research Assistant — LLM Post-Training, *Sep. 2025 – Dec. 2025*
 
 * <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">**Information Retrieval Lab (THUIR)**</a>, Tsinghua University<br>
 
@@ -76,7 +76,7 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 # 🎖 Selected Honors and Awards
 
-## Academic Competitions
+### Academic Competitions
 
 * **First Prize**, China Undergraduate Mathematics Competition, Beijing Division.
 
@@ -86,7 +86,7 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 * **10th Place out of 93 Teams**, Shixin Rongtian AI Algorithm Challenge — Team Leader.
 
-## Scholarships and Honors
+### Scholarships and Honors
 
 * Soong Ching Ling Scholarship.
 
