@@ -1,17 +1,12 @@
 ---
-
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
 ---
 
 <span class='anchor' id='education'></span>
+
 
 # 📖 Education
 
