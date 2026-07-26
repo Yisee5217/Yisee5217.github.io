@@ -7,7 +7,7 @@
 
 # Site Settings
 #title                    : #"A third-year undergraduate student majoring in **Artificial Intelligence**"
-description              : "A third-year undergraduate student majoring in Artificial Intelligence"
+#description              : "A third-year undergraduate student majoring in Artificial Intelligence"
 repository               : "Yisee5217/Yisee5217.github.io"
 google_scholar_stats_use_cdn : true
 
