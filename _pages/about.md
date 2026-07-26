@@ -20,21 +20,22 @@ author_profile: true
 
 # 🔥 News
 
-* *2026.07*: Selected for the McCall MacBain Scholarships (**Beihang’s sole endorsed nominee**).
+* *2026.07*: Selected as for the McCall MacBain Scholarships (**University-wide: 1 endorsed nominee**).
 
 * *2026.06*: Selected for an AI-focused venture capital fellowship at InnoAngel Fund (**30 fellows nationwide; Top-10 VC in China**).
 
 * *2026.05*: Our paper, **HypoAgent**, was released on arXiv and is currently under review.
 
-* *2026.04*: Awarded the Soong Ching Ling Scholarship (**10 recipients university-wide**).
+* *2026.04*: Awarded the Soong Ching Ling Scholarship (**University-wide: 10 recipients**).
 
-* *2026.03*: Selected for a funded exchange semester at the **University of Toronto** (**4 Beihang students selected**).
+* *2026.03*: Selected for a funded exchange semester at the **University of Toronto** (**University-wide: 4 students selected**).
 
-* *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at **The Hong Kong University of Science and Technology** as a research assistant.
+* *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at the **Hong Kong University of Science and Technology** as a research assistant.
 
-* *2025.10*: Selected for a funded exchange semester at The Hong Kong University of Science and Technology (**2 Beihang students selected**).
+* *2025.10*: Selected for a funded exchange semester at the Hong Kong University of Science and Technology (**University-wide: 2 students selected**).
 
 * *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
+
 
 <span class='anchor' id='papers'></span>
 
@@ -45,10 +46,10 @@ author_profile: true
  
  *Under review, 2026*
 
-  [[Paper](https://arxiv.org/abs/2605.31370)]
-  [[Code](https://github.com/HKUST-KnowComp/HypoAgent)]
+ [[Paper](https://arxiv.org/abs/2605.31370)]
+ [[Code](https://github.com/HKUST-KnowComp/HypoAgent)]
 
-<div style="margin-left: 2em;">
+<div style="margin-left: 1em;">
   
 Abductive reasoning over knowledge graphs aims to generate logical hypotheses that explain observed entities or facts. Existing controllable hypothesis generation methods allow users to guide this process with explicit conditions, but they remain limited in interactive settings: they struggle to ground evolving natural-language intents across multi-turn dialogues and provide little fine-grained diagnosis when generated hypotheses fail. To address these limitations, we propose HypoAgent, an Agentic framework for interactive abductive Hypothesis Generation over knowledge graphs. HypoAgent integrates three agents: an Intent Recognition Agent that grounds user utterances and dialogue history into executable KG conditions, a Hypothesis Generation Agent that performs controllable hypothesis generation according to the extracted user intention, and a Root Cause Analysis Agent that diagnoses unreliable hypothesis fragments and leverages KG neighborhood probing to identify supported refinements. Experiments on commonsense and biomedical domain-specific knowledge graphs demonstrate that HypoAgent achieves state-of-the-art semantic similarity under single-turn, multi-turn, and unconditional settings.
 
