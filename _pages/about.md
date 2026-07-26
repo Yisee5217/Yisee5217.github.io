@@ -12,35 +12,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 📖 Education
+
+### Beihang University，*2023 – 2027, Beijing, China*
 
 
-I am **Yixi (Yisee) Cai**, a third-year undergraduate student majoring in **Artificial Intelligence** at the School of Artificial Intelligence, Beihang University.
+**B.Eng., Artificial Intelligence,** School of Artificial Intelligence
 
-
-
-My research interests lie in **large language model agents**, **knowledge graph reasoning**, **post-training and alignment**, and **information retrieval**. I am particularly interested in building reliable AI systems that can reason, interact with users, and adapt to evolving goals.
-
-
-
-I have conducted research at the **Hong Kong University of Science and Technology**, where I worked with Prof. Yangqiu Song's Knowledge Computing Group, and at **Tsinghua University**, where I worked with Prof. Yiqun Liu's Information Retrieval Lab.
-
-
-
-I was selected for funded semester exchange programs at the **Hong Kong University of Science and Technology** in Spring 2026 and the **University of Toronto** in Fall 2026.
-
+* Academic score: **88.19/100**    IELTS: **7.0**
 
 
 # 🔥 News
 
+* *2026.07*: Selected as **Beihang University’s sole endorsed nominee** for the **McCall MacBain Scholarships**.
+
+* *2026.06*: Selected as one of **30 fellows nationwide** for an **AI startup investment fellowship** organized by **InnoAngel Fund**, a **top-10 VC firm in China**.
+
+* *2026.05*: Our paper, **HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs**, was released on arXiv and is currently under review.
+
+* *2026.04*: Awarded the **Soong Ching Ling Scholarship** as one of only **10 university-wide recipients**.
+
+* *2026.03*: Selected for a funded semester exchange program at the **University of Toronto** for Fall 2026.
+
+* *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at **HKUST** as a research assistant.
+
+* *2025.10*: Selected for a funded semester exchange program at the **Hong Kong University of Science and Technology** for Spring 2026.
+
+* *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
 
 
-* *2026.05*: Our work, **HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs**, was released on arXiv and is currently under review.
 
-* *2026.02*: Joined Prof. Yangqiu Song's Knowledge Computing Group at HKUST as a research intern.
-
-* *2025.09*: Joined Prof. Yiqun Liu's Information Retrieval Lab at Tsinghua University as a research intern.
-
-* *2025.06*: Completed my teaching assistant work for Data Structures and Programming, supporting more than 120 students.
 
 
 
@@ -61,11 +62,11 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 # 🔬 Research Experience
 
-### Research Assistant, <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">Knowledge Computing Group (KnowComp)</a>, HKUST, *Feb. 2026 – May 2026*
+### Research Assistant, LLM post-training,  <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">Knowledge Computing Group (KnowComp)</a>, The Hong Kong University of Science and Technology (HKUST), *Feb. 2026 – May 2026*
 
 Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
-### Research Assistant, <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">Information Retrieval Lab (THUIR)</a>, Tsinghua University, *Sep. 2025 – Dec. 2025*
+### Research Assistant, agentic framework & knowledge graph, <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">Information Retrieval Lab (THUIR)</a>, Tsinghua University, *Sep. 2025 – Dec. 2025*
 
 Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
 
@@ -74,18 +75,7 @@ Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noop
 
 
 
-# 💻 Teaching
-
-
-
-### Teaching Assistant, Data Structures and Programming
-
-*Sep. 2023 – Jun. 2025*, Beihang University
-
-
-
-
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 
 
 
@@ -107,64 +97,22 @@ Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noop
 
 
 
-* Soong Ching Ling Future Student Aid Fund.
-
-* Beihang University Academic Competition Scholarship, awarded for two consecutive years.
+* Soong Ching Ling Scholarship.
 
 * Beihang University Merit Student.
-
-* Haidian District One-Star Volunteer.
 
 * Beihang University Outstanding Student Club Contributor.
 
 * Beihang University Outstanding Volunteer.
 
-* Beihang University Volunteer and Public Welfare Scholarship.
 
 
+# 🌱 Roles
 
-# 📖 Education
-
-
-
-### Beihang University
-
+*Teaching Assistant, Data Structures and Programming, *Feb. 2025 – Jul. 2025*, Beihang University
+*Class monitor, School of Artificial Intelligence, *Feb. 2024 – Jan. 2025*, Beihang University
+*Department head, Hiking Club, *Sep. 2024 – Aug. 2025*, Beihang University
 
 
-*2023 – 2027, Beijing, China*
-
-
-
-**B.Eng., Artificial Intelligence,** School of Artificial Intelligence
-
-* Academic score: **88.19/100**
-
-* IELTS: **7.0**
-
-* Selected for funded semester exchange programs at:
-
-
-
-  * The Hong Kong University of Science and Technology, Feb. 2026 – May 2026;
-
-  * The University of Toronto, Sep. 2026 – Dec. 2026.
-
-
-
-
-
-# 🌱 Leadership and Activities
-
-
-
-* Selected for a nationwide 30-person AI investment program organized by a top-ten venture capital firm in China.
-
-* Served as class monitor, student assistant, and department head of the university Hiking Club.
-
-* Completed more than **400 hours of volunteer service** across four regions.
-
-* Led a rural science-education camp whose reports received more than **6,500 views**.
-
-* Participated in international winter programs at Hanyang University and Peter the Great St. Petersburg Polytechnic University.
 
   
