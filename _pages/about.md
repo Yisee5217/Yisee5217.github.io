@@ -15,6 +15,7 @@ author_profile: true
 
 * Academic score: **88.19/100**
 * IELTS: **7.0**
+* Funded exchange semesters: HKUST (Spring 2026; 2 selected university-wide) and the University of Toronto (Fall 2026; 4 selected university-wide).
 
 <span class='anchor' id='news'></span>
 
@@ -28,11 +29,7 @@ author_profile: true
 
 * *2026.04*: Awarded the Soong Ching Ling Scholarship (**University-wide: 10 recipients**).
 
-* *2026.03*: Selected for a funded exchange semester at the **University of Toronto** (**University-wide: 4 students selected**).
-
 * *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at the **Hong Kong University of Science and Technology** as a research assistant.
-
-* *2025.10*: Selected for a funded exchange semester at the Hong Kong University of Science and Technology (**University-wide: 2 students selected**).
 
 * *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
 
