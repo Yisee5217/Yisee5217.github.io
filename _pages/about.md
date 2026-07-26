@@ -10,7 +10,7 @@ author_profile: true
 
 # 📖 Education
 
-### B.Eng. in Artificial Intelligence, Beihang University, *2023 – 2027, Beijing, China*<br>
+## B.Eng. in Artificial Intelligence, Beihang University, *2023 – 2027, Beijing, China*<br>
 
 
 * Academic score: **88.19/100**
@@ -39,7 +39,7 @@ author_profile: true
 <span class='anchor' id='papers'></span>
 
 # 📝 Papers
-##  HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs
+## HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs
 
  Yisen Gao, **Yixi Cai**, Tianshi Zheng, Jiaxin Bai, Yangqiu Song
  
@@ -48,20 +48,22 @@ author_profile: true
   [[Paper](https://arxiv.org/abs/2605.31370)]
   [[Code](https://github.com/HKUST-KnowComp/HypoAgent)]
 
+<div style="margin-left: 2em;">
+  
 Abductive reasoning over knowledge graphs aims to generate logical hypotheses that explain observed entities or facts. Existing controllable hypothesis generation methods allow users to guide this process with explicit conditions, but they remain limited in interactive settings: they struggle to ground evolving natural-language intents across multi-turn dialogues and provide little fine-grained diagnosis when generated hypotheses fail. To address these limitations, we propose HypoAgent, an Agentic framework for interactive abductive Hypothesis Generation over knowledge graphs. HypoAgent integrates three agents: an Intent Recognition Agent that grounds user utterances and dialogue history into executable KG conditions, a Hypothesis Generation Agent that performs controllable hypothesis generation according to the extracted user intention, and a Root Cause Analysis Agent that diagnoses unreliable hypothesis fragments and leverages KG neighborhood probing to identify supported refinements. Experiments on commonsense and biomedical domain-specific knowledge graphs demonstrate that HypoAgent achieves state-of-the-art semantic similarity under single-turn, multi-turn, and unconditional settings.
 
 <span class='anchor' id='research'></span>
 
 # 🔬 Research Experience
 
-### Research Assistant — Agentic Framework and Knowledge Graph, *Feb. 2026 – May 2026*
+## Research Assistant — Agentic Framework and Knowledge Graph, *Feb. 2026 – May 2026*
 
 * <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">**Knowledge Computing Group (KnowComp)**</a>,The Hong Kong University of Science and Technology (HKUST)<br>
 
 
 * Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
-### Research Assistant — LLM Post-Training, *Sep. 2025 – Dec. 2025*
+## Research Assistant — LLM Post-Training, *Sep. 2025 – Dec. 2025*
 
 * <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">**Information Retrieval Lab (THUIR)**</a>, Tsinghua University<br>
 
