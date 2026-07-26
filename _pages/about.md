@@ -20,7 +20,7 @@ author_profile: true
 
 # 🔥 News
 
-* *2026.07*: Selected as for the McCall MacBain Scholarships (**University-wide: 1 endorsed nominee**).
+* *2026.07*: Selected as for the McCall MacBain Scholarships (**University-wide: sole nominee, nominated by Beihang President Prof. Yunpeng Wang**).
 
 * *2026.06*: Selected for an AI-focused venture capital fellowship at InnoAngel Fund (**30 fellows nationwide; Top-10 VC in China**).
 
