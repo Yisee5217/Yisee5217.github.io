@@ -14,12 +14,10 @@ redirect_from:
 
 # 📖 Education
 
-### Beihang University，*2023 – 2027, Beijing, China*
+### B.Eng., Artificial Intelligence,** School of Artificial Intelligence, Beihang University，*2023 – 2027, Beijing, China*
 
-
-**B.Eng., Artificial Intelligence,** School of Artificial Intelligence
-
-* Academic score: **88.19/100**    IELTS: **7.0**
+* Academic score: **88.19/100**
+* IELTS: **7.0**
 
 
 # 🔥 News
@@ -64,11 +62,11 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 ### Research Assistant, LLM post-training,  <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">Knowledge Computing Group (KnowComp)</a>, The Hong Kong University of Science and Technology (HKUST), *Feb. 2026 – May 2026*
 
-Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
+* Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
 ### Research Assistant, agentic framework & knowledge graph, <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">Information Retrieval Lab (THUIR)</a>, Tsinghua University, *Sep. 2025 – Dec. 2025*
 
-Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
+* Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
 
 
 
@@ -109,9 +107,9 @@ Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noop
 
 # 🌱 Roles
 
-*Teaching Assistant, Data Structures and Programming, *Feb. 2025 – Jul. 2025*, Beihang University
-*Class monitor, School of Artificial Intelligence, *Feb. 2024 – Jan. 2025*, Beihang University
-*Department head, Hiking Club, *Sep. 2024 – Aug. 2025*, Beihang University
+* Teaching Assistant, Data Structures and Programming, *Feb. 2025 – Jul. 2025*, Beihang University
+* Class monitor, School of Artificial Intelligence, *Feb. 2024 – Jan. 2025*, Beihang University
+* Department head, Hiking Club, *Sep. 2024 – Aug. 2025*, Beihang University
 
 
 
