@@ -23,16 +23,13 @@ redirect_from:
 * Academic score: **88.19/100**
 * IELTS: **7.0**
 
-
-
-
 <span class='anchor' id='news'></span>
 
 # 🔥 News
 
 * *2026.07*: Selected for the **McCall MacBain Scholarships** (**Beihang’s sole endorsed nominee**).
 
-* *2026.06*: Selected as one of **30 fellows nationwide** for an AI-focused venture capital fellowship at InnoAngel Fund (**30 fellows nationwide; Top-10 VC in China**).
+* *2026.06*: Selected for an AI-focused venture capital fellowship at InnoAngel Fund (**30 fellows nationwide; Top-10 VC in China**).
 
 * *2026.05*: Our paper, **HypoAgent**, was released on arXiv and is currently under review.
 
@@ -46,10 +43,7 @@ redirect_from:
 
 * *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
 
-
-
 <span class='anchor' id='papers'></span>
-
 
 # 📝 Papers
 
@@ -63,10 +57,7 @@ redirect_from:
 
   Abductive reasoning over knowledge graphs aims to generate logical hypotheses that explain observed entities or facts. Existing controllable hypothesis generation methods allow users to guide this process with explicit conditions, but they remain limited in interactive settings: they struggle to ground evolving natural-language intents across multi-turn dialogues and provide little fine-grained diagnosis when generated hypotheses fail. To address these limitations, we propose HypoAgent, an Agentic framework for interactive abductive Hypothesis Generation over knowledge graphs. HypoAgent integrates three agents: an Intent Recognition Agent that grounds user utterances and dialogue history into executable KG conditions, a Hypothesis Generation Agent that performs controllable hypothesis generation according to the extracted user intention, and a Root Cause Analysis Agent that diagnoses unreliable hypothesis fragments and leverages KG neighborhood probing to identify supported refinements. Experiments on commonsense and biomedical domain-specific knowledge graphs demonstrate that HypoAgent achieves state-of-the-art semantic similarity under single-turn, multi-turn, and unconditional settings.
 
-
-
 <span class='anchor' id='research'></span>
-
 
 # 🔬 Research Experience
 
@@ -85,11 +76,6 @@ Tsinghua University
 *Sep. 2025 – Dec. 2025*
 
 * Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
-
-
-
-
-
 
 <span class='anchor' id='honors'></span>
 
@@ -114,8 +100,6 @@ Tsinghua University
 * Beihang University Outstanding Student Club Contributor.
 
 * Beihang University Outstanding Volunteer.
-
-
 
 <span class='anchor' id='roles'></span>
 
