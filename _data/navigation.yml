@@ -1,22 +1,22 @@
 # Main navigation links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "Education"
-    url: "/#education"
+    url: "#education"
 
   - title: "News"
-    url: "/#news"
+    url: "#news"
 
   - title: "Papers"
-    url: "/#papers"
+    url: "#papers"
 
   - title: "Research"
-    url: "/#research"
+    url: "#research"
 
-  - title: "Honors & Awards"
-    url: "/#honors"
+  - title: "Honors and Awards"
+    url: "#honors"
 
   - title: "Roles"
-    url: "/#roles"
+    url: "#roles"
