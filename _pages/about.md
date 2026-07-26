@@ -22,19 +22,20 @@ redirect_from:
 
 # 🔥 News
 
-* *2026.07*: Selected as **Beihang University’s sole endorsed nominee** for the **McCall MacBain Scholarships**.
 
-* *2026.06*: Selected as one of **30 fellows nationwide** for an **AI startup investment fellowship** organized by **InnoAngel Fund**, a **top-10 VC firm in China**.
+* *2026.07*: Selected for the **McCall MacBain Scholarships** (**Beihang’s sole endorsed nominee**).
 
-* *2026.05*: Our paper, **HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs**, was released on arXiv and is currently under review.
+* *2026.06*: Selected for an AI-focused venture capital fellowship at InnoAngel Fund (**30 fellows nationwide; Top-10 VC in China**).
 
-* *2026.04*: Awarded the **Soong Ching Ling Scholarship** as one of only **10 university-wide recipients**.
+* *2026.05*: Our paper, **HypoAgent**, was released on arXiv and is currently under review.
 
-* *2026.03*: Selected for a funded semester exchange program at the **University of Toronto** for Fall 2026.
+* *2026.04*: Awarded the **Soong Ching Ling Scholarship** (**10 recipients university-wide**).
+
+* *2026.03*: Selected for a funded exchange semester at the **University of Toronto** (**4 Beihang students selected**).
 
 * *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at **HKUST** as a research assistant.
 
-* *2025.10*: Selected for a funded semester exchange program at the **Hong Kong University of Science and Technology** for Spring 2026.
+* *2025.10*: Selected for a funded exchange semester at **HKUST** (**2 Beihang students selected**).
 
 * *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
 
@@ -43,14 +44,14 @@ redirect_from:
 
 
 
-# 📝 Publications & Preprints
+
+# 📝 Papers
 
 
-
-### HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs, under review, 2026
+### HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs
 
 Yisen Gao, **Yixi Cai**, Tianshi Zheng, Jiaxin Bai, Yangqiu Song
-
+*Under review, 2026*
 [[Paper](https://arxiv.org/abs/2605.31370)] 
 [[Code](https://github.com/HKUST-KnowComp/HypoAgent)]
 
@@ -60,26 +61,19 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 # 🔬 Research Experience
 
-### Research Assistant, LLM post-training,  <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">Knowledge Computing Group (KnowComp)</a>, The Hong Kong University of Science and Technology (HKUST), *Feb. 2026 – May 2026*
+### Research Assistant, agentic framework & knowledge graph, <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">Knowledge Computing Group (KnowComp)</a>, The Hong Kong University of Science and Technology (HKUST), *Feb. 2026 – May 2026*
 
 * Advisor: **<a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">Prof. Yangqiu Song</a>**
 
-### Research Assistant, agentic framework & knowledge graph, <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">Information Retrieval Lab (THUIR)</a>, Tsinghua University, *Sep. 2025 – Dec. 2025*
+### Research Assistant, LLM post-training, <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">Information Retrieval Lab (THUIR)</a>, Tsinghua University, *Sep. 2025 – Dec. 2025*
 
 * Advisor: **<a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">Prof. Yiqun Liu</a>**
 
 
 
-
-
-
 # 🎖 Selected Honors and Awards
 
-
-
 ## Academic Competitions
-
-
 
 * **First Prize**, China Undergraduate Mathematics Competition, Beijing Division.
 
@@ -90,10 +84,7 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 * **10th Place out of 93 Teams**, Shixin Rongtian AI Algorithm Challenge — Team Leader.
 
 
-
 ## Scholarships and Honors
-
-
 
 * Soong Ching Ling Scholarship.
 
@@ -105,12 +96,8 @@ Abductive reasoning over knowledge graphs aims to generate logical hypotheses th
 
 
 
-# 🌱 Roles
+# 🌱 Teaching and Leadership
 
-* Teaching Assistant, Data Structures and Programming, *Feb. 2025 – Jul. 2025*, Beihang University
-* Class monitor, School of Artificial Intelligence, *Feb. 2024 – Jan. 2025*, Beihang University
-* Department head, Hiking Club, *Sep. 2024 – Aug. 2025*, Beihang University
-
-
-
-  
+* **Teaching Assistant**, Data Structures and Programming, *Feb. 2025 – Jul. 2025*, Beihang University
+* **Class monitor**, School of Artificial Intelligence, *Feb. 2024 – Jan. 2025*, Beihang University
+* **Department leader**, Hiking Club, *Sep. 2024 – Aug. 2025*, Beihang University
