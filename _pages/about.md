@@ -5,20 +5,17 @@ excerpt: ""
 author_profile: true
 ---
 
-<span class='anchor' id='education'></span>
+<span class='anchor' id='about'></span>
 
-# 📖 Education
 
-### B.Eng. in Artificial Intelligence, Beihang University
+I am **Yixi (Yisee) Cai**, a third-year undergraduate student majoring in Artificial Intelligence at the School of Artificial Intelligence, Beihang University.
 
-*2023 – 2027, Beijing, China*
+My previous research experience spans **LLM agents, knowledge graph reasoning, post-training, and information retrieval**. At the Hong Kong University of Science and Technology, I worked with the <a href="https://github.com/HKUST-KnowComp" target="_blank" rel="noopener noreferrer">**Knowledge Computing Group (KnowComp)**</a> under the supervision of <a href="https://cse.hkust.edu.hk/~yqsong/" target="_blank" rel="noopener noreferrer">**Prof. Yangqiu Song**</a>. At Tsinghua University, I worked with the <a href="https://www.thuir.cn/" target="_blank" rel="noopener noreferrer">**Information Retrieval Lab (THUIR)**</a> under the supervision of <a href="https://www.thuir.cn/group/YQLiu/" target="_blank" rel="noopener noreferrer">**Prof. Yiqun Liu**</a>.
 
-* Academic score: **88.19/100**
-* IELTS: **7.0**
-* Funded exchange semesters:
+Building on these experiences, I am interested in developing intelligent systems that can **learn, reason, interact, and make decisions in complex environments**, particularly through **agentic AI, multimodal learning, and embodied intelligence**.
 
-  * **Hong Kong University of Science and Technology**, Spring 2026 (**2 selected university-wide**)
-  * **University of Toronto**, Fall 2026 (**4 selected university-wide**)
+I was selected for funded exchange semesters at the **Hong Kong University of Science and Technology** in Spring 2026 (**2 students selected university-wide**) and the **University of Toronto** in Fall 2026 (**4 students selected university-wide**).
+
 
 
 <span class='anchor' id='news'></span>
