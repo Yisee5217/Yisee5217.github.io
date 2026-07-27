@@ -30,9 +30,6 @@ I was selected for funded exchange semesters at the **Hong Kong University of Sc
 
 * *2026.04*: Awarded the Soong Ching Ling Scholarship (**University-wide: 10 recipients**).
 
-* *2026.02*: Joined Prof. Yangqiu Song’s Knowledge Computing Group at the **Hong Kong University of Science and Technology** as a research assistant.
-
-* *2025.09*: Joined Prof. Yiqun Liu’s Information Retrieval Lab at **Tsinghua University** as a research assistant.
 
 
 <span class='anchor' id='papers'></span>
