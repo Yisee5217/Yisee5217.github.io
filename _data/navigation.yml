@@ -1,8 +1,8 @@
 # Main navigation links
 main:
 
-  - title: "Education"
-    url: "#education"
+  - title: "About me"
+    url: "#about"
 
   - title: "News"
     url: "#news"
